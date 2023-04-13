@@ -1,27 +1,30 @@
 # AppTodo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=YELLON&style=for-the-badge)
+![Badge em Versão](http://img.shields.io/static/v1?label=Versão&message=1.0&color=GREEN&style=for-the-badge)
 
-## Development server
+![GitHub Org's stars](https://img.shields.io/github/stars/gabrielsantos969?style=social)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Descrição
+### Este é um projeto que está sendo feito atráves do [Curso de Angular 2 (v15+) Typescript do Básico ao Avançado](https://www.udemy.com/course/curso-de-angular/) que estou fazendo através da plataforma Udemy. É um projeto para aprendizagem pessoal e desenvolvimento com a ferramenta Angular, obrigado por ter visto o projeto, espero que goste e embreve está em um servidor.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## ✔️ Técnicas e tecnologias utilizadas
 
-## Build
+- ``Typescript``
+- ``Angular``
+- ``Javascript``
+- ``HTML5``
+- ``SCSS``
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# Autores
+|Nome|Email|Presente|Função|Curso|
+| -------- | -------- | -------- |-------- | -------- |
+|Gabriel Santos|gabrielsantos98898@gmail.com|Sim|Full Stack|Ciências da Computação|
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+[<img src="https://github.com/gabrielsantos969.png" width=115 > <br> <sub> Gabriel Santos </sub>](https://github.com/gabrielsantos969) |
+| :---: |  
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielsantos969)](https://github.com/gabrielsantos969)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-santos-b53632196/)](https://www.linkedin.com/in/gabriel-santos-b53632196/)
